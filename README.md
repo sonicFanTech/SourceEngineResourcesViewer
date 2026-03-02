@@ -27,3 +27,5 @@ SERV is a hub + tool suite (tools launch from the Hub):
   - what happened (and screenshots if possible)
 
 Have fun — and thanks for checking out SERV.
+
+Full Doc: https://github.com/sonicFanTech/SourceEngineResourcesViewer/blob/main/SERV_Full_Documentation_B1.md
