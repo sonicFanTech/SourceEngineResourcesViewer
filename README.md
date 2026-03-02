@@ -29,3 +29,4 @@ Have fun — and thanks for checking out SERV.
 
 Full Doc: https://github.com/sonicFanTech/SourceEngineResourcesViewer/blob/main/Documentation.md
 LICENSE: https://github.com/sonicFanTech/SourceEngineResourcesViewer/blob/main/LICENSE.md
+Website: https://sonicfantech.org/Site/SERV/
