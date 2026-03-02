@@ -6,7 +6,6 @@ SERV is a fan-made resource inspection workbench for Source Engine file formats 
 ## Downloads
 - **Installer (Windows):** https://github.com/sonicFanTech/SourceEngineResourcesViewer/releases/download/B1/SERV.Setup.exe  
 - **Portable (7Z):** https://github.com/sonicFanTech/SourceEngineResourcesViewer/releases/download/B1/SERV.7z  
-- **Repo:** https://github.com/sonicFanTech/SourceEngineResourcesViewer  
 
 ## What’s included
 SERV is a hub + tool suite (tools launch from the Hub):
@@ -29,3 +28,4 @@ SERV is a hub + tool suite (tools launch from the Hub):
 Have fun — and thanks for checking out SERV.
 
 Full Doc: https://github.com/sonicFanTech/SourceEngineResourcesViewer/blob/main/SERV_Full_Documentation_B1.md
+LICENSE: https://github.com/sonicFanTech/SourceEngineResourcesViewer/blob/main/LICENSE.md
