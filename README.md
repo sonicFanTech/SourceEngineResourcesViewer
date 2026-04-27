@@ -1,32 +1,35 @@
-# Source Engine Resources Viewer (SERV) — Beta (B1)
+# Source Engine Resources Viewer (SERV) Beta 2 - Full Documentation
 
-**Beta build (B1) is now ready for download.**  
-SERV is a fan-made resource inspection workbench for Source Engine file formats — not affiliated with Valve.
+SERV Beta 2 is a native C++/Qt recode of the Source Engine Resources Viewer tool suite. The website version of this documentation is available in `documentation.html`.
 
-## Downloads
-- **Installer (Windows):** https://github.com/sonicFanTech/SourceEngineResourcesViewer/releases/download/B1/SERV.Setup.exe  
-- **Portable (7Z):** https://github.com/sonicFanTech/SourceEngineResourcesViewer/releases/download/B1/SERV.7z  
+## Main components
 
-## What’s included
-SERV is a hub + tool suite (tools launch from the Hub):
-- **SERV Hub** — launcher for all tools
-- **VTF Viewer** — inspect/preview/export textures
-- **VMT Inspector** — readable material inspection
-- **VPK Browser** — browse/extract VPK archives
-- **MDL / EXE-DLL / PCF / RES / NUT / VCD / LMP / SAV / SND / SWATCH** — inspectors/viewers (varies by tool)
-- **Source BSP Explorer** — external BSP support (launched from SERV)
-- **EveryPlay (Video Player)** — video previews (includes `.bik` / Bink videos)
-- **VidPlayer (Audio Player)** — audio previews
+- SERV Hub
+- Source BSP Explorer
+- VPK Browser
+- VTF Viewer
+- VMT Viewer
+- MDL Viewer / Inspector
+- VMF Viewer / Inspector
+- NUT Viewer / Inspector
+- VCD Viewer / Inspector
+- PCF Inspector
+- SND Inspector
+- RES Inspector
+- SAV Inspector
+- Launch Options Builder
+- DEMO Player / Inspector
+
+## Tools not remade yet
+
+- SWATCH Inspector
+- EXE/DLL Inspector
+
+## Download links
+
+- Installer: https://github.com/sonicFanTech/SourceEngineResourcesViewer/releases/download/B2/SERV.BETA.2.SETUP.exe
+- Portable: https://github.com/sonicFanTech/SourceEngineResourcesViewer/releases/download/B2/SERV_PB2.7z
 
 ## Notes
-- This is a **beta**. Some tools may be incomplete or may change.
-- If something breaks, please report it in **Issues** on the repo with:
-  - what file you opened
-  - what tool you used
-  - what happened (and screenshots if possible)
 
-Have fun — and thanks for checking out SERV.
-
-Full Doc: https://github.com/sonicFanTech/SourceEngineResourcesViewer/blob/main/Documentation.md
-LICENSE: https://github.com/sonicFanTech/SourceEngineResourcesViewer/blob/main/LICENSE.md
-Website: https://sonicfantech.org/Site/SERV/
+This is a beta. MDL rendering, texture resolving, and DEM playback are still experimental.
